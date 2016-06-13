@@ -13,6 +13,11 @@ header {
   background-color:black;
 }
 
+img{
+	 width:120px;
+	 height:120px;
+}
+
 #logo {
   padding: 20px 0;
   text-align: center;
@@ -32,9 +37,4 @@ header {
   max-width: 800px;
   margin: -100px auto 0;
   background-color:white;
-}
-
-img{
-	 width:100px;
-	 height:100px;
 }
