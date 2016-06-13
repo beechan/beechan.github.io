@@ -2,14 +2,14 @@ body {
     font-family: YuGothic, "游ゴシック", "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", sans-serif;
     background-color:black;
     font-size:14px;
-    
+    background-image: url("bg.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 header {
   background-image: url("bg.jpg");
-  background-position: center center;
-  background-size: cover;
-  background-repeat: no-repeat;
   background-color:black;
 }
 
@@ -26,7 +26,6 @@ img{
 #logo img {
   max-width: 120px;
   border: 5px solid black;
-  border-radius: 100%;
 }
 
 .intro_menu {
