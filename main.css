@@ -20,12 +20,21 @@ header {
 
 #logo img {
   max-width: 120px;
-  border: 5px solid #fff;
+  border: 5px solid black;
   border-radius: 100%;
+}
+
+.intro_menu {
+  color:blue;
 }
 
 .container{
   max-width: 800px;
   margin: -100px auto 0;
-  background-color: white;
+  background-color:white;
+}
+
+img{
+	 width:100px;
+	 height:100px;
 }
